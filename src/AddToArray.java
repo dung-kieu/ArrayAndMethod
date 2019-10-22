@@ -6,7 +6,7 @@ public class AddToArray {
         int[] arr = {1,2,3,4,5,6};
         System.out.println("Array :");
         for (int i : arr)
-            System.out.print(i +" ,");
+            System.out.print(i +",");
             System.out.println();
             System.out.println("Enter a number");
             int input = sc.nextInt();

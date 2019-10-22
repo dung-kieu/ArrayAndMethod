@@ -1,6 +1,8 @@
+import java.util.Scanner;
+
 public class celsiusToFahrenheit {
     public static void main(String[] args) {
-        java.util.Scanner input = new java.util.Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         double fahrenheit;
         double celsius;
         int choice;
